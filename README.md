@@ -4,7 +4,10 @@ Třetí projekt na Python Akademii od Engeta
 Tento projekt slouží k získání výsledků z parlamentních voleb v roce 2017.
 Odkaz k prohlédnutí najdete [zde](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ)
 ## Instalace knihoven
-Knihovny použité v tomto projektu jsou uloženy v souboru requirements.txt.
+Knihovny použité v tomto projektu jsou uloženy v souboru **requirements.txt**, který je přiložen v repozitáři.
+Pro instalaci knihoven doporučuji použít nové virtuální prostředí s nainstalovaným manažerem.
+Instalaci provedete následovně:
+
 
 Tento soubor obsahuje 
 ---
