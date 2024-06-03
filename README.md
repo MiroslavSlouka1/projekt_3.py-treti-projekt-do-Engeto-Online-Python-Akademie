@@ -8,9 +8,7 @@ Knihovny použité v tomto projektu jsou uloženy v souboru **requirements.txt**
 Pro instalaci knihoven doporučuji použít nové virtuální prostředí s nainstalovaným manažerem.
 Instalaci provedete následovně:
 
-``` pip install -r requirements.txt ```
-
-       případně
+``` pip install -r requirements.txt ```         případně
 
 ``` pip3 install -r requirements.txt ```
 
