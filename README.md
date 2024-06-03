@@ -23,7 +23,8 @@ Vzor příkazu:
 
 ```python Elections_Scraper.py <URL webove stranky> <soubor_s_vysledky.csv>```
 
-
+## Ukázka programu
+Výsledky hlasování pro okres 
 
 
 
