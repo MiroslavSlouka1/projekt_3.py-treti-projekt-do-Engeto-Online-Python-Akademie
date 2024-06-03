@@ -34,8 +34,9 @@ Vzor příkazu:
 Výsledky hlasování pro okres Benešov
 
 Spuštění programu:
-
-``` python Elections_Scraper.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101' 'vysledky_benesov.csv' ```
+``` 
+python Elections_Scraper.py 'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101' 'vysledky_benesov.csv'
+```
 
 Průběh stahování:
 
