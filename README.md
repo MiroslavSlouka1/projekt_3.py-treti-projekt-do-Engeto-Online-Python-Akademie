@@ -7,11 +7,11 @@ Odkaz k prohlédnutí najdete [zde](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ
 Knihovny použité v tomto projektu jsou uloženy v souboru **requirements.txt**, který je přiložen v repozitáři.
 Pro instalaci knihoven doporučuji použít nové virtuální prostředí s nainstalovaným manažerem.
 Instalaci provedete následovně:
-```pip install -r requirements.txt
-```
+``` pip install -r requirements.txt ```
+
 Případně
-```pip3 install -r requirements.txt
-```
+``` pip3 install -r requirements.txt ```
+
 
 
 Tento soubor obsahuje 
