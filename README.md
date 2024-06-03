@@ -13,11 +13,14 @@ Instalaci provedete následovně:
 ``` pip3 install -r requirements.txt ```
 
 ## Spuštění programu
-Program Elections_Scraper.py se spouští v příkazovém řádku se dvěma parametry.
+Program Elections_Scraper.py se spouští v příkazovém řádku se dvěma argumenty.
 
-První parametr obsahuje URL webové stránky z odkazu výše.
-
-Druhý parametr definuje název souboru s příponou ".csv",kam se uloží výsledky
+První argument obsahuje URL webové stránky z odkazu výše:
+```
+```
+Druhý argument definuje název souboru s příponou ".csv",kam se uloží výsledky:
+```
+```
 
 Vzor příkazu:
 
