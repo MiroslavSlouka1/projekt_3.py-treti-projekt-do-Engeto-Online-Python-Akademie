@@ -17,9 +17,12 @@ Program Elections_Scraper.py se spouští v příkazovém řádku se dvěma argu
 
 První argument obsahuje URL webové stránky z odkazu výše:
 ```
+'https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2101'
 ```
+
 Druhý argument definuje název souboru s příponou ".csv",kam se uloží výsledky:
 ```
+'vysledky_benesov.csv'
 ```
 
 Vzor příkazu:
